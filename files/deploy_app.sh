@@ -11,19 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. 
-          '.-----/`.
-          /       '/
-          __'`__ .''-.
-          \o) o/      \
-          (`Y   .)     \
-            `--|__7     \
-              /         |
-        __   /         /
-        \ )  \        //
-         \ \--X   Y  //
-        (-`.`--_.-' /_) BP       cat
-            `-.__.-'
+  Welcome to ${PREFIX}'s app. =^.^= merrrrwwww
   <!-- END -->
 
   </div>
